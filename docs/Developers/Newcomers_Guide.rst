@@ -202,6 +202,9 @@ to prevent them.
 Step 5. Sending Your Changes
 ----------------------------
 
+Before starting to write your first commit, check out this link
+http://coala.io/commit.
+
 .. note::
 
    Before committing your changes, please check that you are indeed in a
